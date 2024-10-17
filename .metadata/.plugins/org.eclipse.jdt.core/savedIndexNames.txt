@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\it\Desktop\김재한\241017\fork241017\.metadata\.plugins\org.eclipse.jdt.core
+2708798621.index
+1865797976.index
+318609694.index
